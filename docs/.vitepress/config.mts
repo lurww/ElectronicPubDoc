@@ -95,6 +95,8 @@ const customElements = [
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+    base: '/ElectronicPubDoc/',
+
     title: "文档",
     description: "A VitePress Site",
 
