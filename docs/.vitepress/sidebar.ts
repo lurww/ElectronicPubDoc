@@ -24,19 +24,22 @@ export const sidebar: DefaultTheme.Sidebar = {
                 }
             ]
         },
-        // 第二部分
-        // {
-        //     text: '字典和树',
-        //     items: [
-        //         {
-        //             text: '字典和集合-Set和Map',
-        //             link: '/column/Algorithm/003_Dictionary'
-        //         },
-        //         {
-        //             text: '树-深/广度优先遍历',
-        //             link: '/column/Algorithm/004_Tree'
-        //         }
-        //     ]
-        // }
+        {
+            text: '3-辐射发射问题分析方法',
+            items: [
+                {
+                    text: '3.1 辐射发射定位步骤与问题分析方法',
+                    link: '/column/辐射发射/3-辐射发射问题分析方法/3.1 辐射发射定位步骤与问题分析方法.md'
+                },
+                // {
+                //     text: '1.2 产品辐射发射原理',
+                //     link: '/column/辐射发射/3-辐射发射问题分析方法/1.2 产品辐射发射原理.md'
+                // },
+                // {
+                //     text: '1.3 辐射发射测试中的天线特征关系研究',
+                //     link: '/column/辐射发射/3-辐射发射问题分析方法/1.3 辐射发射测试中的天线特征关系研究.md'
+                // }
+            ]
+        },
     ]
 };
